@@ -1,11 +1,11 @@
 # Tugas Pemograman Web 2
 ## Profil
-| #               | Biodata           |
-| --------------- | ----------------- |
-| **Nama**        | Rezza Fauzi       |
-| **NIM**         | 312110133         |
-| **Kelas**       | TI.21.A.1         |
-| **Mata Kuliah** | Pemrograman Web 2 |
+| #               | Biodata           	 |
+| --------------- | -----------------    |
+| **Nama**        | Muhamad Suryanegara  |
+| **NIM**         | 312110447            |
+| **Kelas**       | TI.21.A.1            |
+| **Mata Kuliah** | Pemrograman Web 2    |
 
 # Persiapan 
 1. Persiapkan Text Editor misalnya VSCode.
